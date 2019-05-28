@@ -1,2 +1,2 @@
 git is a distributed version control systerm
-fit is free software
+fit is free software under GPL
